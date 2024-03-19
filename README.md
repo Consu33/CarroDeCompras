@@ -1,1 +1,2 @@
 # CarroDeCompras
+Pagina Web en HTML, css y javaScrip Es una pagina web con la opcion de realizar compras basicas de articulos electronicos. Aqui podras seleccionar un producto en donde se informara el valor con la opcion de aumentar la cantidad a comprar o disminuir, en caso de que haya un error en la compra. Se mostrara la cantidad a pagar en caso de aumento o disminucion. Puedes seleccionar 1 articulo o mas. Además, si ya seleccionaste un producto y lo vuelves a informar, la pagina te indicara una advertencia de que "producto" ya se encuentra en el carro de compras
